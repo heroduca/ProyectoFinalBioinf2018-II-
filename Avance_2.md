@@ -1,13 +1,12 @@
 Querido diario, 
 
-Hata el momento y antes de este avance Alicia me sugirió descargar los genomas que utilizaré para mi poryecto del posgrado
-aun no lo intento pero el día de mañana haré un primer intento al menos con uno para ver las complicaciones que me encuentro y
-como debo abordarlas y resolverlas.
+Quería comentarte algo de mi proyecto final. Estuve evaluando la situación de lo del genoma de novo del murcielago que haré para el posgrado pero un esamblado de tal magnitud no creo que me de tiempo de hcaerlo en menos de un mes, por ello quería modificiarlo un poco y hacer algo similar pero con bacterias. Lo que que propongo es lo siguiente:
 
-Por otro lado he llevado a cabo el preprocesamiento de mis datos, por una parte, hice un conteo de read con el siguiente comando 
-`grep -c "head de la lìnea"` y me hizo un conteo de 375623209 para R1 como para R2 de los datos crudos.
+Bajar los datos crudos de la bacteria Escherichia coli
+Hacer limpieza de estos datos, ensamblarlo de novo
+Anotar el genoma
+Buscar genes relacionados con patogenesis
+Bajar otros genomas de E. coli de otros ambientes (como clinico ambiental y otro)
+Comparar los tres genomas
 
-Y aunque no es relevante, estoy preparando mi entrevista para el doctorado que aun no se que fecha es, y esto que llevo de avancesme 
-gustaría mencionarlo.
-
-Para el próximo avance ya contaré que dificultades me encontre con descargar y el pre-procesamientos de mis datos.
+Esta idea me surgio como justo para verlo ya en un proyecto grande con un tamaño de genoma más grande y ver los conflictos que pueda llegar a tener o bien, aprenderlo con organismos pequeños aunque sean procariontes.
